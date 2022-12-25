@@ -1,2 +1,3 @@
-# shichenliu97.github.io
-my temp website
+# shichenliu.github.io
+
+Credit to https://jonbarron.info/
